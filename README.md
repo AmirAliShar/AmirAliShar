@@ -6,7 +6,7 @@ I specialize in building AI-powered solutions, chatbots, and data-driven applica
 
 ## 🔥 What I Do:  
 - **AI & ML Solutions**: Predictive analytics, NLP, and generative AI.  
-- **AI Chatbots & Assistants**: LangChain, RAG, AI agents, and vector-based retrieval.  
+- **AI Chatbots & agents**: LangChain, LangGraph RAG, AI agents, and vector-based retrieval.  
 - **Data Science & Analytics**: Data cleaning, feature engineering, visualization, and predictive modeling.  
 - **Computer Vision**: Object detection, image classification (exploring YOLO).  
 - **Deep Learning**: CNNs, RNNs, LSTMs, Transformers, and BERT.  
